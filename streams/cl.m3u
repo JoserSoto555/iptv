@@ -234,7 +234,11 @@ http://live.mundogo.cl/mundo/Nuevaregion/index.m3u8
 #EXTINF:-1 tvg-id="OndaRadio.cl",Onda Radio TV (1080p)
 https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8
 #EXTINF:-1 tvg-id="Opinionsur.cl",Opinionsur
-https://mediacpstreamchile.com:1936/opinionsur/opinionsur/playlist.m3u8
+https://glb.bozztv.com/glb/ssh101/opinionsur/index.m3u8
+#EXTINF:-1 tvg-id="Opinionsur.cl",Opinionsur Series
+https://glb.bozztv.com/glb/ssh101/opinionsurs/index.m3u8
+#EXTINF:-1 tvg-id="Opinionsur.cl",Opinionsur Niños
+https://glb.bozztv.com/glb/ssh101/opinionsurn/index.m3u8
 #EXTINF:-1 tvg-id="OrigenTV.cl",Origen TV (480p)
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 #EXTINF:-1 tvg-id="PandamaxChannel.cl",Pandamax Channel (1080p)
@@ -439,6 +443,12 @@ https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Wapp.cl",Wapp (1080p)
 https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
+#EXTINF:-1 tvg-id="YungayOnline.cl",Yungay Online
+https://mediacpstreamchile.com:1936/8028/8028/playlist.m3u8
+#EXTINF:-1 tvg-id="ZappingMusic.cl",Zapping Music (720p)
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ZonaPlayTV.cl",Zona Play TV (720p)
+https://paneltv.online:1936/8100/8100/playlist.m3u8
 #EXTINF:-1 tvg-id="YungayOnline.cl",Yungay Online
 https://mediacpstreamchile.com:1936/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-id="ZappingMusic.cl",Zapping Music (720p)
